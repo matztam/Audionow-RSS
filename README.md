@@ -1,4 +1,4 @@
-# ARD Audiothek rss feed generator
+# Audionow rss feed generator
 
 ## Dependencies
  - php-curl
